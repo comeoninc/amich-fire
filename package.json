@@ -38,7 +38,7 @@
     "nativescript-ui-dataform": "^5.0.0",
     "nativescript-ui-listview": "^7.0.1",
     "nativescript-ui-sidedrawer": "^7.0.0",
-    "ng-packagr": "^5.3.0",
+    "ng-packagr": "^10.1.1",
     "node-readability": "^3.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.4.0",
